@@ -208,6 +208,16 @@ main>article section ul {
     height: 300px;
 }
 
+#about img {
+    float: right;
+    width: 40%;
+    height: 200px;
+}
+
+#about>p {
+    text-align: left;
+}
+
 body {
     background: #1b1f22;
 }
