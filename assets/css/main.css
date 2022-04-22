@@ -210,12 +210,13 @@ main>article section ul {
 
 #about img {
     float: right;
-    width: 40%;
-    height: 200px;
+    width: 30%;
+    height: 250px;
 }
 
 #about>p {
     text-align: left;
+    width: 60%;
 }
 
 body {
@@ -1665,7 +1666,7 @@ body.is-preload #header .content .inner {
     transition: opacity 0.325s ease-in-out, transform 0.325s ease-in-out;
     padding: 4.5rem 2.5rem 1.5rem 2.5rem;
     position: relative;
-    width: 40rem;
+    width: 50rem;
     max-width: 100%;
     background-color: rgba(27, 31, 34, 0.85);
     border-radius: 4px;
