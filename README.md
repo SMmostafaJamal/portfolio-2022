@@ -1,2 +1,3 @@
 My Portfolio live site:
-sm-mostafajamal.netlify.app
+
+https://sm-mostafajamal.netlify.app/
